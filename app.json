@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "getkcal-mobile",
+    "slug": "getkcal-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./img/icon.png",
+    "splash": {
+      "image": "./img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
